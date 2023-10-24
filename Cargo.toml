@@ -1,0 +1,23 @@
+[package]
+name = "nuchiie"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "nuchiie"
+path = "src/lib.rs"
+
+[[test]]
+name = "nuchiie-test"
+path = "tests/lib.rs"
+
+
+[[bin]]
+name = "nuchiie-python"
+path = "src/bin/python.rs"
+
+[[bin]]
+name = "nuchiie-rust"
+path = "src/bin/rust.rs"
+
+[dependencies]
