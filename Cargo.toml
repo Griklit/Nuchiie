@@ -20,4 +20,16 @@ path = "src/bin/python.rs"
 name = "nuchiie-rust"
 path = "src/bin/rust.rs"
 
+[[bin]]
+name = "nuchiie-javascript"
+path = "src/bin/javascript.rs"
+
+[[bin]]
+name = "nuchiie-lua"
+path = "src/bin/lua.rs"
+
+[[bin]]
+name = "nuchiie-sql"
+path = "src/bin/sql.rs"
+
 [dependencies]
