@@ -4,7 +4,7 @@ use std::io::Write;
 use nuchiie::ToChinese;
 
 fn main() {
-    let mut f = fs::File::create("output/arabic_to_chinese.js").expect("Create file failed.");
+    let mut f = fs::File::create("output/arabicToChinese.js").expect("Create file failed.");
     f.write("function arabicToChinese(num) {\n".as_bytes()).unwrap();
     f.write("    if (num === 0) {\n".as_bytes()).unwrap();
     f.write("        return \"零\";\n".as_bytes()).unwrap();

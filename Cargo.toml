@@ -32,4 +32,17 @@ path = "src/bin/lua.rs"
 name = "nuchiie-sql"
 path = "src/bin/sql.rs"
 
+[[bin]]
+name = "nuchiie-c"
+path = "src/bin/c.rs"
+
+[[bin]]
+name = "nuchiie-cpp"
+path = "src/bin/cpp.rs"
+
+[[bin]]
+name = "nuchiie-kotlin"
+path = "src/bin/kotlin.rs"
+
+
 [dependencies]
