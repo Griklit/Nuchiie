@@ -44,5 +44,9 @@ path = "src/bin/cpp.rs"
 name = "nuchiie-kotlin"
 path = "src/bin/kotlin.rs"
 
+[[bin]]
+name = "nuchiie-go"
+path = "src/bin/go.rs"
+
 
 [dependencies]
