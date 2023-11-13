@@ -13,7 +13,7 @@ fn main() {
         f.write(format!("        return \"{}\";\n", i.to_chinese()).as_bytes()).unwrap();
     }
     f.write("    else\n".as_bytes()).unwrap();
-    f.write("        error(\"The number is too large\", 2)\n".as_bytes()).unwrap();
+    f.write("        error(\"The number is out of range\", 2)\n".as_bytes()).unwrap();
     f.write("    end\n".as_bytes()).unwrap();
     f.write("end\n".as_bytes()).unwrap();
 }

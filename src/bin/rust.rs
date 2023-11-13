@@ -11,7 +11,7 @@ fn main() {
     for i in 0u16..=u16::MAX {
         f.write(format!("        {} => \"{}\",\n", i, i.to_chinese()).as_bytes()).unwrap();
     }
-    f.write("        _ => panic!(),\n".as_bytes()).unwrap();
+    f.write("        _ => panic!(\"Impossible!\"),\n".as_bytes()).unwrap();
     f.write("    };\n".as_bytes()).unwrap();
     f.write("}\n".as_bytes()).unwrap();
 }
