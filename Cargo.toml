@@ -58,4 +58,10 @@ path = "src/bin/ruby.rs"
 name = "nuchiie-r"
 path = "src/bin/r.rs"
 
+[[bin]]
+name = "nuchiie-bash"
+path = "src/bin/bash.rs"
+
+
+
 [dependencies]
