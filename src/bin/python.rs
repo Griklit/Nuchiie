@@ -13,5 +13,5 @@ fn main() {
         f.write(format!("        return \"{}\"\n", i.to_chinese()).as_bytes()).unwrap();
     }
     f.write("    else:\n".as_bytes()).unwrap();
-    f.write("        raise ValueError(\"The number is too large\")".as_bytes()).unwrap();
+    f.write("        raise ValueError(\"The number is out of range\")".as_bytes()).unwrap();
 }

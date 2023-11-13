@@ -49,4 +49,9 @@ name = "nuchiie-go"
 path = "src/bin/go.rs"
 
 
+[[bin]]
+name = "nuchiie-ruby"
+path = "src/bin/ruby.rs"
+
+
 [dependencies]

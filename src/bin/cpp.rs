@@ -13,7 +13,7 @@ string arabicToChinese(unsigned short int number)
 "#;
 
 const END: &str = r#"    }
-    throw "Arabic number to chineses number failed.";
+    throw "Impossible!";
 }
 "#;
 
