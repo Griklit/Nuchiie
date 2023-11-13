@@ -131071,6 +131071,6 @@ def arabic_to_chinese(number)
     when 65535
         return "六万五千五百三十五"
     else
-        raise "Not implemented."
+        raise "The number is out of range"
     end
 end
