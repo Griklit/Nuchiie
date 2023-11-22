@@ -2019,25 +2019,25 @@ def arabic_to_chinese(number)
     when 1009
         return "一千零九"
     when 1010
-        return "一千零十"
+        return "一千零一十"
     when 1011
-        return "一千零十一"
+        return "一千零一十一"
     when 1012
-        return "一千零十二"
+        return "一千零一十二"
     when 1013
-        return "一千零十三"
+        return "一千零一十三"
     when 1014
-        return "一千零十四"
+        return "一千零一十四"
     when 1015
-        return "一千零十五"
+        return "一千零一十五"
     when 1016
-        return "一千零十六"
+        return "一千零一十六"
     when 1017
-        return "一千零十七"
+        return "一千零一十七"
     when 1018
-        return "一千零十八"
+        return "一千零一十八"
     when 1019
-        return "一千零十九"
+        return "一千零一十九"
     when 1020
         return "一千零二十"
     when 1021
@@ -4019,25 +4019,25 @@ def arabic_to_chinese(number)
     when 2009
         return "二千零九"
     when 2010
-        return "二千零十"
+        return "二千零一十"
     when 2011
-        return "二千零十一"
+        return "二千零一十一"
     when 2012
-        return "二千零十二"
+        return "二千零一十二"
     when 2013
-        return "二千零十三"
+        return "二千零一十三"
     when 2014
-        return "二千零十四"
+        return "二千零一十四"
     when 2015
-        return "二千零十五"
+        return "二千零一十五"
     when 2016
-        return "二千零十六"
+        return "二千零一十六"
     when 2017
-        return "二千零十七"
+        return "二千零一十七"
     when 2018
-        return "二千零十八"
+        return "二千零一十八"
     when 2019
-        return "二千零十九"
+        return "二千零一十九"
     when 2020
         return "二千零二十"
     when 2021
@@ -6019,25 +6019,25 @@ def arabic_to_chinese(number)
     when 3009
         return "三千零九"
     when 3010
-        return "三千零十"
+        return "三千零一十"
     when 3011
-        return "三千零十一"
+        return "三千零一十一"
     when 3012
-        return "三千零十二"
+        return "三千零一十二"
     when 3013
-        return "三千零十三"
+        return "三千零一十三"
     when 3014
-        return "三千零十四"
+        return "三千零一十四"
     when 3015
-        return "三千零十五"
+        return "三千零一十五"
     when 3016
-        return "三千零十六"
+        return "三千零一十六"
     when 3017
-        return "三千零十七"
+        return "三千零一十七"
     when 3018
-        return "三千零十八"
+        return "三千零一十八"
     when 3019
-        return "三千零十九"
+        return "三千零一十九"
     when 3020
         return "三千零二十"
     when 3021
@@ -8019,25 +8019,25 @@ def arabic_to_chinese(number)
     when 4009
         return "四千零九"
     when 4010
-        return "四千零十"
+        return "四千零一十"
     when 4011
-        return "四千零十一"
+        return "四千零一十一"
     when 4012
-        return "四千零十二"
+        return "四千零一十二"
     when 4013
-        return "四千零十三"
+        return "四千零一十三"
     when 4014
-        return "四千零十四"
+        return "四千零一十四"
     when 4015
-        return "四千零十五"
+        return "四千零一十五"
     when 4016
-        return "四千零十六"
+        return "四千零一十六"
     when 4017
-        return "四千零十七"
+        return "四千零一十七"
     when 4018
-        return "四千零十八"
+        return "四千零一十八"
     when 4019
-        return "四千零十九"
+        return "四千零一十九"
     when 4020
         return "四千零二十"
     when 4021
@@ -10019,25 +10019,25 @@ def arabic_to_chinese(number)
     when 5009
         return "五千零九"
     when 5010
-        return "五千零十"
+        return "五千零一十"
     when 5011
-        return "五千零十一"
+        return "五千零一十一"
     when 5012
-        return "五千零十二"
+        return "五千零一十二"
     when 5013
-        return "五千零十三"
+        return "五千零一十三"
     when 5014
-        return "五千零十四"
+        return "五千零一十四"
     when 5015
-        return "五千零十五"
+        return "五千零一十五"
     when 5016
-        return "五千零十六"
+        return "五千零一十六"
     when 5017
-        return "五千零十七"
+        return "五千零一十七"
     when 5018
-        return "五千零十八"
+        return "五千零一十八"
     when 5019
-        return "五千零十九"
+        return "五千零一十九"
     when 5020
         return "五千零二十"
     when 5021
@@ -12019,25 +12019,25 @@ def arabic_to_chinese(number)
     when 6009
         return "六千零九"
     when 6010
-        return "六千零十"
+        return "六千零一十"
     when 6011
-        return "六千零十一"
+        return "六千零一十一"
     when 6012
-        return "六千零十二"
+        return "六千零一十二"
     when 6013
-        return "六千零十三"
+        return "六千零一十三"
     when 6014
-        return "六千零十四"
+        return "六千零一十四"
     when 6015
-        return "六千零十五"
+        return "六千零一十五"
     when 6016
-        return "六千零十六"
+        return "六千零一十六"
     when 6017
-        return "六千零十七"
+        return "六千零一十七"
     when 6018
-        return "六千零十八"
+        return "六千零一十八"
     when 6019
-        return "六千零十九"
+        return "六千零一十九"
     when 6020
         return "六千零二十"
     when 6021
@@ -14019,25 +14019,25 @@ def arabic_to_chinese(number)
     when 7009
         return "七千零九"
     when 7010
-        return "七千零十"
+        return "七千零一十"
     when 7011
-        return "七千零十一"
+        return "七千零一十一"
     when 7012
-        return "七千零十二"
+        return "七千零一十二"
     when 7013
-        return "七千零十三"
+        return "七千零一十三"
     when 7014
-        return "七千零十四"
+        return "七千零一十四"
     when 7015
-        return "七千零十五"
+        return "七千零一十五"
     when 7016
-        return "七千零十六"
+        return "七千零一十六"
     when 7017
-        return "七千零十七"
+        return "七千零一十七"
     when 7018
-        return "七千零十八"
+        return "七千零一十八"
     when 7019
-        return "七千零十九"
+        return "七千零一十九"
     when 7020
         return "七千零二十"
     when 7021
@@ -16019,25 +16019,25 @@ def arabic_to_chinese(number)
     when 8009
         return "八千零九"
     when 8010
-        return "八千零十"
+        return "八千零一十"
     when 8011
-        return "八千零十一"
+        return "八千零一十一"
     when 8012
-        return "八千零十二"
+        return "八千零一十二"
     when 8013
-        return "八千零十三"
+        return "八千零一十三"
     when 8014
-        return "八千零十四"
+        return "八千零一十四"
     when 8015
-        return "八千零十五"
+        return "八千零一十五"
     when 8016
-        return "八千零十六"
+        return "八千零一十六"
     when 8017
-        return "八千零十七"
+        return "八千零一十七"
     when 8018
-        return "八千零十八"
+        return "八千零一十八"
     when 8019
-        return "八千零十九"
+        return "八千零一十九"
     when 8020
         return "八千零二十"
     when 8021
@@ -18019,25 +18019,25 @@ def arabic_to_chinese(number)
     when 9009
         return "九千零九"
     when 9010
-        return "九千零十"
+        return "九千零一十"
     when 9011
-        return "九千零十一"
+        return "九千零一十一"
     when 9012
-        return "九千零十二"
+        return "九千零一十二"
     when 9013
-        return "九千零十三"
+        return "九千零一十三"
     when 9014
-        return "九千零十四"
+        return "九千零一十四"
     when 9015
-        return "九千零十五"
+        return "九千零一十五"
     when 9016
-        return "九千零十六"
+        return "九千零一十六"
     when 9017
-        return "九千零十七"
+        return "九千零一十七"
     when 9018
-        return "九千零十八"
+        return "九千零一十八"
     when 9019
-        return "九千零十九"
+        return "九千零一十九"
     when 9020
         return "九千零二十"
     when 9021
@@ -20019,25 +20019,25 @@ def arabic_to_chinese(number)
     when 10009
         return "一万零九"
     when 10010
-        return "一万零十"
+        return "一万零一十"
     when 10011
-        return "一万零十一"
+        return "一万零一十一"
     when 10012
-        return "一万零十二"
+        return "一万零一十二"
     when 10013
-        return "一万零十三"
+        return "一万零一十三"
     when 10014
-        return "一万零十四"
+        return "一万零一十四"
     when 10015
-        return "一万零十五"
+        return "一万零一十五"
     when 10016
-        return "一万零十六"
+        return "一万零一十六"
     when 10017
-        return "一万零十七"
+        return "一万零一十七"
     when 10018
-        return "一万零十八"
+        return "一万零一十八"
     when 10019
-        return "一万零十九"
+        return "一万零一十九"
     when 10020
         return "一万零二十"
     when 10021
@@ -22019,25 +22019,25 @@ def arabic_to_chinese(number)
     when 11009
         return "一万一千零九"
     when 11010
-        return "一万一千零十"
+        return "一万一千零一十"
     when 11011
-        return "一万一千零十一"
+        return "一万一千零一十一"
     when 11012
-        return "一万一千零十二"
+        return "一万一千零一十二"
     when 11013
-        return "一万一千零十三"
+        return "一万一千零一十三"
     when 11014
-        return "一万一千零十四"
+        return "一万一千零一十四"
     when 11015
-        return "一万一千零十五"
+        return "一万一千零一十五"
     when 11016
-        return "一万一千零十六"
+        return "一万一千零一十六"
     when 11017
-        return "一万一千零十七"
+        return "一万一千零一十七"
     when 11018
-        return "一万一千零十八"
+        return "一万一千零一十八"
     when 11019
-        return "一万一千零十九"
+        return "一万一千零一十九"
     when 11020
         return "一万一千零二十"
     when 11021
@@ -24019,25 +24019,25 @@ def arabic_to_chinese(number)
     when 12009
         return "一万二千零九"
     when 12010
-        return "一万二千零十"
+        return "一万二千零一十"
     when 12011
-        return "一万二千零十一"
+        return "一万二千零一十一"
     when 12012
-        return "一万二千零十二"
+        return "一万二千零一十二"
     when 12013
-        return "一万二千零十三"
+        return "一万二千零一十三"
     when 12014
-        return "一万二千零十四"
+        return "一万二千零一十四"
     when 12015
-        return "一万二千零十五"
+        return "一万二千零一十五"
     when 12016
-        return "一万二千零十六"
+        return "一万二千零一十六"
     when 12017
-        return "一万二千零十七"
+        return "一万二千零一十七"
     when 12018
-        return "一万二千零十八"
+        return "一万二千零一十八"
     when 12019
-        return "一万二千零十九"
+        return "一万二千零一十九"
     when 12020
         return "一万二千零二十"
     when 12021
@@ -26019,25 +26019,25 @@ def arabic_to_chinese(number)
     when 13009
         return "一万三千零九"
     when 13010
-        return "一万三千零十"
+        return "一万三千零一十"
     when 13011
-        return "一万三千零十一"
+        return "一万三千零一十一"
     when 13012
-        return "一万三千零十二"
+        return "一万三千零一十二"
     when 13013
-        return "一万三千零十三"
+        return "一万三千零一十三"
     when 13014
-        return "一万三千零十四"
+        return "一万三千零一十四"
     when 13015
-        return "一万三千零十五"
+        return "一万三千零一十五"
     when 13016
-        return "一万三千零十六"
+        return "一万三千零一十六"
     when 13017
-        return "一万三千零十七"
+        return "一万三千零一十七"
     when 13018
-        return "一万三千零十八"
+        return "一万三千零一十八"
     when 13019
-        return "一万三千零十九"
+        return "一万三千零一十九"
     when 13020
         return "一万三千零二十"
     when 13021
@@ -28019,25 +28019,25 @@ def arabic_to_chinese(number)
     when 14009
         return "一万四千零九"
     when 14010
-        return "一万四千零十"
+        return "一万四千零一十"
     when 14011
-        return "一万四千零十一"
+        return "一万四千零一十一"
     when 14012
-        return "一万四千零十二"
+        return "一万四千零一十二"
     when 14013
-        return "一万四千零十三"
+        return "一万四千零一十三"
     when 14014
-        return "一万四千零十四"
+        return "一万四千零一十四"
     when 14015
-        return "一万四千零十五"
+        return "一万四千零一十五"
     when 14016
-        return "一万四千零十六"
+        return "一万四千零一十六"
     when 14017
-        return "一万四千零十七"
+        return "一万四千零一十七"
     when 14018
-        return "一万四千零十八"
+        return "一万四千零一十八"
     when 14019
-        return "一万四千零十九"
+        return "一万四千零一十九"
     when 14020
         return "一万四千零二十"
     when 14021
@@ -30019,25 +30019,25 @@ def arabic_to_chinese(number)
     when 15009
         return "一万五千零九"
     when 15010
-        return "一万五千零十"
+        return "一万五千零一十"
     when 15011
-        return "一万五千零十一"
+        return "一万五千零一十一"
     when 15012
-        return "一万五千零十二"
+        return "一万五千零一十二"
     when 15013
-        return "一万五千零十三"
+        return "一万五千零一十三"
     when 15014
-        return "一万五千零十四"
+        return "一万五千零一十四"
     when 15015
-        return "一万五千零十五"
+        return "一万五千零一十五"
     when 15016
-        return "一万五千零十六"
+        return "一万五千零一十六"
     when 15017
-        return "一万五千零十七"
+        return "一万五千零一十七"
     when 15018
-        return "一万五千零十八"
+        return "一万五千零一十八"
     when 15019
-        return "一万五千零十九"
+        return "一万五千零一十九"
     when 15020
         return "一万五千零二十"
     when 15021
@@ -32019,25 +32019,25 @@ def arabic_to_chinese(number)
     when 16009
         return "一万六千零九"
     when 16010
-        return "一万六千零十"
+        return "一万六千零一十"
     when 16011
-        return "一万六千零十一"
+        return "一万六千零一十一"
     when 16012
-        return "一万六千零十二"
+        return "一万六千零一十二"
     when 16013
-        return "一万六千零十三"
+        return "一万六千零一十三"
     when 16014
-        return "一万六千零十四"
+        return "一万六千零一十四"
     when 16015
-        return "一万六千零十五"
+        return "一万六千零一十五"
     when 16016
-        return "一万六千零十六"
+        return "一万六千零一十六"
     when 16017
-        return "一万六千零十七"
+        return "一万六千零一十七"
     when 16018
-        return "一万六千零十八"
+        return "一万六千零一十八"
     when 16019
-        return "一万六千零十九"
+        return "一万六千零一十九"
     when 16020
         return "一万六千零二十"
     when 16021
@@ -34019,25 +34019,25 @@ def arabic_to_chinese(number)
     when 17009
         return "一万七千零九"
     when 17010
-        return "一万七千零十"
+        return "一万七千零一十"
     when 17011
-        return "一万七千零十一"
+        return "一万七千零一十一"
     when 17012
-        return "一万七千零十二"
+        return "一万七千零一十二"
     when 17013
-        return "一万七千零十三"
+        return "一万七千零一十三"
     when 17014
-        return "一万七千零十四"
+        return "一万七千零一十四"
     when 17015
-        return "一万七千零十五"
+        return "一万七千零一十五"
     when 17016
-        return "一万七千零十六"
+        return "一万七千零一十六"
     when 17017
-        return "一万七千零十七"
+        return "一万七千零一十七"
     when 17018
-        return "一万七千零十八"
+        return "一万七千零一十八"
     when 17019
-        return "一万七千零十九"
+        return "一万七千零一十九"
     when 17020
         return "一万七千零二十"
     when 17021
@@ -36019,25 +36019,25 @@ def arabic_to_chinese(number)
     when 18009
         return "一万八千零九"
     when 18010
-        return "一万八千零十"
+        return "一万八千零一十"
     when 18011
-        return "一万八千零十一"
+        return "一万八千零一十一"
     when 18012
-        return "一万八千零十二"
+        return "一万八千零一十二"
     when 18013
-        return "一万八千零十三"
+        return "一万八千零一十三"
     when 18014
-        return "一万八千零十四"
+        return "一万八千零一十四"
     when 18015
-        return "一万八千零十五"
+        return "一万八千零一十五"
     when 18016
-        return "一万八千零十六"
+        return "一万八千零一十六"
     when 18017
-        return "一万八千零十七"
+        return "一万八千零一十七"
     when 18018
-        return "一万八千零十八"
+        return "一万八千零一十八"
     when 18019
-        return "一万八千零十九"
+        return "一万八千零一十九"
     when 18020
         return "一万八千零二十"
     when 18021
@@ -38019,25 +38019,25 @@ def arabic_to_chinese(number)
     when 19009
         return "一万九千零九"
     when 19010
-        return "一万九千零十"
+        return "一万九千零一十"
     when 19011
-        return "一万九千零十一"
+        return "一万九千零一十一"
     when 19012
-        return "一万九千零十二"
+        return "一万九千零一十二"
     when 19013
-        return "一万九千零十三"
+        return "一万九千零一十三"
     when 19014
-        return "一万九千零十四"
+        return "一万九千零一十四"
     when 19015
-        return "一万九千零十五"
+        return "一万九千零一十五"
     when 19016
-        return "一万九千零十六"
+        return "一万九千零一十六"
     when 19017
-        return "一万九千零十七"
+        return "一万九千零一十七"
     when 19018
-        return "一万九千零十八"
+        return "一万九千零一十八"
     when 19019
-        return "一万九千零十九"
+        return "一万九千零一十九"
     when 19020
         return "一万九千零二十"
     when 19021
@@ -40019,25 +40019,25 @@ def arabic_to_chinese(number)
     when 20009
         return "二万零九"
     when 20010
-        return "二万零十"
+        return "二万零一十"
     when 20011
-        return "二万零十一"
+        return "二万零一十一"
     when 20012
-        return "二万零十二"
+        return "二万零一十二"
     when 20013
-        return "二万零十三"
+        return "二万零一十三"
     when 20014
-        return "二万零十四"
+        return "二万零一十四"
     when 20015
-        return "二万零十五"
+        return "二万零一十五"
     when 20016
-        return "二万零十六"
+        return "二万零一十六"
     when 20017
-        return "二万零十七"
+        return "二万零一十七"
     when 20018
-        return "二万零十八"
+        return "二万零一十八"
     when 20019
-        return "二万零十九"
+        return "二万零一十九"
     when 20020
         return "二万零二十"
     when 20021
@@ -42019,25 +42019,25 @@ def arabic_to_chinese(number)
     when 21009
         return "二万一千零九"
     when 21010
-        return "二万一千零十"
+        return "二万一千零一十"
     when 21011
-        return "二万一千零十一"
+        return "二万一千零一十一"
     when 21012
-        return "二万一千零十二"
+        return "二万一千零一十二"
     when 21013
-        return "二万一千零十三"
+        return "二万一千零一十三"
     when 21014
-        return "二万一千零十四"
+        return "二万一千零一十四"
     when 21015
-        return "二万一千零十五"
+        return "二万一千零一十五"
     when 21016
-        return "二万一千零十六"
+        return "二万一千零一十六"
     when 21017
-        return "二万一千零十七"
+        return "二万一千零一十七"
     when 21018
-        return "二万一千零十八"
+        return "二万一千零一十八"
     when 21019
-        return "二万一千零十九"
+        return "二万一千零一十九"
     when 21020
         return "二万一千零二十"
     when 21021
@@ -44019,25 +44019,25 @@ def arabic_to_chinese(number)
     when 22009
         return "二万二千零九"
     when 22010
-        return "二万二千零十"
+        return "二万二千零一十"
     when 22011
-        return "二万二千零十一"
+        return "二万二千零一十一"
     when 22012
-        return "二万二千零十二"
+        return "二万二千零一十二"
     when 22013
-        return "二万二千零十三"
+        return "二万二千零一十三"
     when 22014
-        return "二万二千零十四"
+        return "二万二千零一十四"
     when 22015
-        return "二万二千零十五"
+        return "二万二千零一十五"
     when 22016
-        return "二万二千零十六"
+        return "二万二千零一十六"
     when 22017
-        return "二万二千零十七"
+        return "二万二千零一十七"
     when 22018
-        return "二万二千零十八"
+        return "二万二千零一十八"
     when 22019
-        return "二万二千零十九"
+        return "二万二千零一十九"
     when 22020
         return "二万二千零二十"
     when 22021
@@ -46019,25 +46019,25 @@ def arabic_to_chinese(number)
     when 23009
         return "二万三千零九"
     when 23010
-        return "二万三千零十"
+        return "二万三千零一十"
     when 23011
-        return "二万三千零十一"
+        return "二万三千零一十一"
     when 23012
-        return "二万三千零十二"
+        return "二万三千零一十二"
     when 23013
-        return "二万三千零十三"
+        return "二万三千零一十三"
     when 23014
-        return "二万三千零十四"
+        return "二万三千零一十四"
     when 23015
-        return "二万三千零十五"
+        return "二万三千零一十五"
     when 23016
-        return "二万三千零十六"
+        return "二万三千零一十六"
     when 23017
-        return "二万三千零十七"
+        return "二万三千零一十七"
     when 23018
-        return "二万三千零十八"
+        return "二万三千零一十八"
     when 23019
-        return "二万三千零十九"
+        return "二万三千零一十九"
     when 23020
         return "二万三千零二十"
     when 23021
@@ -48019,25 +48019,25 @@ def arabic_to_chinese(number)
     when 24009
         return "二万四千零九"
     when 24010
-        return "二万四千零十"
+        return "二万四千零一十"
     when 24011
-        return "二万四千零十一"
+        return "二万四千零一十一"
     when 24012
-        return "二万四千零十二"
+        return "二万四千零一十二"
     when 24013
-        return "二万四千零十三"
+        return "二万四千零一十三"
     when 24014
-        return "二万四千零十四"
+        return "二万四千零一十四"
     when 24015
-        return "二万四千零十五"
+        return "二万四千零一十五"
     when 24016
-        return "二万四千零十六"
+        return "二万四千零一十六"
     when 24017
-        return "二万四千零十七"
+        return "二万四千零一十七"
     when 24018
-        return "二万四千零十八"
+        return "二万四千零一十八"
     when 24019
-        return "二万四千零十九"
+        return "二万四千零一十九"
     when 24020
         return "二万四千零二十"
     when 24021
@@ -50019,25 +50019,25 @@ def arabic_to_chinese(number)
     when 25009
         return "二万五千零九"
     when 25010
-        return "二万五千零十"
+        return "二万五千零一十"
     when 25011
-        return "二万五千零十一"
+        return "二万五千零一十一"
     when 25012
-        return "二万五千零十二"
+        return "二万五千零一十二"
     when 25013
-        return "二万五千零十三"
+        return "二万五千零一十三"
     when 25014
-        return "二万五千零十四"
+        return "二万五千零一十四"
     when 25015
-        return "二万五千零十五"
+        return "二万五千零一十五"
     when 25016
-        return "二万五千零十六"
+        return "二万五千零一十六"
     when 25017
-        return "二万五千零十七"
+        return "二万五千零一十七"
     when 25018
-        return "二万五千零十八"
+        return "二万五千零一十八"
     when 25019
-        return "二万五千零十九"
+        return "二万五千零一十九"
     when 25020
         return "二万五千零二十"
     when 25021
@@ -52019,25 +52019,25 @@ def arabic_to_chinese(number)
     when 26009
         return "二万六千零九"
     when 26010
-        return "二万六千零十"
+        return "二万六千零一十"
     when 26011
-        return "二万六千零十一"
+        return "二万六千零一十一"
     when 26012
-        return "二万六千零十二"
+        return "二万六千零一十二"
     when 26013
-        return "二万六千零十三"
+        return "二万六千零一十三"
     when 26014
-        return "二万六千零十四"
+        return "二万六千零一十四"
     when 26015
-        return "二万六千零十五"
+        return "二万六千零一十五"
     when 26016
-        return "二万六千零十六"
+        return "二万六千零一十六"
     when 26017
-        return "二万六千零十七"
+        return "二万六千零一十七"
     when 26018
-        return "二万六千零十八"
+        return "二万六千零一十八"
     when 26019
-        return "二万六千零十九"
+        return "二万六千零一十九"
     when 26020
         return "二万六千零二十"
     when 26021
@@ -54019,25 +54019,25 @@ def arabic_to_chinese(number)
     when 27009
         return "二万七千零九"
     when 27010
-        return "二万七千零十"
+        return "二万七千零一十"
     when 27011
-        return "二万七千零十一"
+        return "二万七千零一十一"
     when 27012
-        return "二万七千零十二"
+        return "二万七千零一十二"
     when 27013
-        return "二万七千零十三"
+        return "二万七千零一十三"
     when 27014
-        return "二万七千零十四"
+        return "二万七千零一十四"
     when 27015
-        return "二万七千零十五"
+        return "二万七千零一十五"
     when 27016
-        return "二万七千零十六"
+        return "二万七千零一十六"
     when 27017
-        return "二万七千零十七"
+        return "二万七千零一十七"
     when 27018
-        return "二万七千零十八"
+        return "二万七千零一十八"
     when 27019
-        return "二万七千零十九"
+        return "二万七千零一十九"
     when 27020
         return "二万七千零二十"
     when 27021
@@ -56019,25 +56019,25 @@ def arabic_to_chinese(number)
     when 28009
         return "二万八千零九"
     when 28010
-        return "二万八千零十"
+        return "二万八千零一十"
     when 28011
-        return "二万八千零十一"
+        return "二万八千零一十一"
     when 28012
-        return "二万八千零十二"
+        return "二万八千零一十二"
     when 28013
-        return "二万八千零十三"
+        return "二万八千零一十三"
     when 28014
-        return "二万八千零十四"
+        return "二万八千零一十四"
     when 28015
-        return "二万八千零十五"
+        return "二万八千零一十五"
     when 28016
-        return "二万八千零十六"
+        return "二万八千零一十六"
     when 28017
-        return "二万八千零十七"
+        return "二万八千零一十七"
     when 28018
-        return "二万八千零十八"
+        return "二万八千零一十八"
     when 28019
-        return "二万八千零十九"
+        return "二万八千零一十九"
     when 28020
         return "二万八千零二十"
     when 28021
@@ -58019,25 +58019,25 @@ def arabic_to_chinese(number)
     when 29009
         return "二万九千零九"
     when 29010
-        return "二万九千零十"
+        return "二万九千零一十"
     when 29011
-        return "二万九千零十一"
+        return "二万九千零一十一"
     when 29012
-        return "二万九千零十二"
+        return "二万九千零一十二"
     when 29013
-        return "二万九千零十三"
+        return "二万九千零一十三"
     when 29014
-        return "二万九千零十四"
+        return "二万九千零一十四"
     when 29015
-        return "二万九千零十五"
+        return "二万九千零一十五"
     when 29016
-        return "二万九千零十六"
+        return "二万九千零一十六"
     when 29017
-        return "二万九千零十七"
+        return "二万九千零一十七"
     when 29018
-        return "二万九千零十八"
+        return "二万九千零一十八"
     when 29019
-        return "二万九千零十九"
+        return "二万九千零一十九"
     when 29020
         return "二万九千零二十"
     when 29021
@@ -60019,25 +60019,25 @@ def arabic_to_chinese(number)
     when 30009
         return "三万零九"
     when 30010
-        return "三万零十"
+        return "三万零一十"
     when 30011
-        return "三万零十一"
+        return "三万零一十一"
     when 30012
-        return "三万零十二"
+        return "三万零一十二"
     when 30013
-        return "三万零十三"
+        return "三万零一十三"
     when 30014
-        return "三万零十四"
+        return "三万零一十四"
     when 30015
-        return "三万零十五"
+        return "三万零一十五"
     when 30016
-        return "三万零十六"
+        return "三万零一十六"
     when 30017
-        return "三万零十七"
+        return "三万零一十七"
     when 30018
-        return "三万零十八"
+        return "三万零一十八"
     when 30019
-        return "三万零十九"
+        return "三万零一十九"
     when 30020
         return "三万零二十"
     when 30021
@@ -62019,25 +62019,25 @@ def arabic_to_chinese(number)
     when 31009
         return "三万一千零九"
     when 31010
-        return "三万一千零十"
+        return "三万一千零一十"
     when 31011
-        return "三万一千零十一"
+        return "三万一千零一十一"
     when 31012
-        return "三万一千零十二"
+        return "三万一千零一十二"
     when 31013
-        return "三万一千零十三"
+        return "三万一千零一十三"
     when 31014
-        return "三万一千零十四"
+        return "三万一千零一十四"
     when 31015
-        return "三万一千零十五"
+        return "三万一千零一十五"
     when 31016
-        return "三万一千零十六"
+        return "三万一千零一十六"
     when 31017
-        return "三万一千零十七"
+        return "三万一千零一十七"
     when 31018
-        return "三万一千零十八"
+        return "三万一千零一十八"
     when 31019
-        return "三万一千零十九"
+        return "三万一千零一十九"
     when 31020
         return "三万一千零二十"
     when 31021
@@ -64019,25 +64019,25 @@ def arabic_to_chinese(number)
     when 32009
         return "三万二千零九"
     when 32010
-        return "三万二千零十"
+        return "三万二千零一十"
     when 32011
-        return "三万二千零十一"
+        return "三万二千零一十一"
     when 32012
-        return "三万二千零十二"
+        return "三万二千零一十二"
     when 32013
-        return "三万二千零十三"
+        return "三万二千零一十三"
     when 32014
-        return "三万二千零十四"
+        return "三万二千零一十四"
     when 32015
-        return "三万二千零十五"
+        return "三万二千零一十五"
     when 32016
-        return "三万二千零十六"
+        return "三万二千零一十六"
     when 32017
-        return "三万二千零十七"
+        return "三万二千零一十七"
     when 32018
-        return "三万二千零十八"
+        return "三万二千零一十八"
     when 32019
-        return "三万二千零十九"
+        return "三万二千零一十九"
     when 32020
         return "三万二千零二十"
     when 32021
@@ -66019,25 +66019,25 @@ def arabic_to_chinese(number)
     when 33009
         return "三万三千零九"
     when 33010
-        return "三万三千零十"
+        return "三万三千零一十"
     when 33011
-        return "三万三千零十一"
+        return "三万三千零一十一"
     when 33012
-        return "三万三千零十二"
+        return "三万三千零一十二"
     when 33013
-        return "三万三千零十三"
+        return "三万三千零一十三"
     when 33014
-        return "三万三千零十四"
+        return "三万三千零一十四"
     when 33015
-        return "三万三千零十五"
+        return "三万三千零一十五"
     when 33016
-        return "三万三千零十六"
+        return "三万三千零一十六"
     when 33017
-        return "三万三千零十七"
+        return "三万三千零一十七"
     when 33018
-        return "三万三千零十八"
+        return "三万三千零一十八"
     when 33019
-        return "三万三千零十九"
+        return "三万三千零一十九"
     when 33020
         return "三万三千零二十"
     when 33021
@@ -68019,25 +68019,25 @@ def arabic_to_chinese(number)
     when 34009
         return "三万四千零九"
     when 34010
-        return "三万四千零十"
+        return "三万四千零一十"
     when 34011
-        return "三万四千零十一"
+        return "三万四千零一十一"
     when 34012
-        return "三万四千零十二"
+        return "三万四千零一十二"
     when 34013
-        return "三万四千零十三"
+        return "三万四千零一十三"
     when 34014
-        return "三万四千零十四"
+        return "三万四千零一十四"
     when 34015
-        return "三万四千零十五"
+        return "三万四千零一十五"
     when 34016
-        return "三万四千零十六"
+        return "三万四千零一十六"
     when 34017
-        return "三万四千零十七"
+        return "三万四千零一十七"
     when 34018
-        return "三万四千零十八"
+        return "三万四千零一十八"
     when 34019
-        return "三万四千零十九"
+        return "三万四千零一十九"
     when 34020
         return "三万四千零二十"
     when 34021
@@ -70019,25 +70019,25 @@ def arabic_to_chinese(number)
     when 35009
         return "三万五千零九"
     when 35010
-        return "三万五千零十"
+        return "三万五千零一十"
     when 35011
-        return "三万五千零十一"
+        return "三万五千零一十一"
     when 35012
-        return "三万五千零十二"
+        return "三万五千零一十二"
     when 35013
-        return "三万五千零十三"
+        return "三万五千零一十三"
     when 35014
-        return "三万五千零十四"
+        return "三万五千零一十四"
     when 35015
-        return "三万五千零十五"
+        return "三万五千零一十五"
     when 35016
-        return "三万五千零十六"
+        return "三万五千零一十六"
     when 35017
-        return "三万五千零十七"
+        return "三万五千零一十七"
     when 35018
-        return "三万五千零十八"
+        return "三万五千零一十八"
     when 35019
-        return "三万五千零十九"
+        return "三万五千零一十九"
     when 35020
         return "三万五千零二十"
     when 35021
@@ -72019,25 +72019,25 @@ def arabic_to_chinese(number)
     when 36009
         return "三万六千零九"
     when 36010
-        return "三万六千零十"
+        return "三万六千零一十"
     when 36011
-        return "三万六千零十一"
+        return "三万六千零一十一"
     when 36012
-        return "三万六千零十二"
+        return "三万六千零一十二"
     when 36013
-        return "三万六千零十三"
+        return "三万六千零一十三"
     when 36014
-        return "三万六千零十四"
+        return "三万六千零一十四"
     when 36015
-        return "三万六千零十五"
+        return "三万六千零一十五"
     when 36016
-        return "三万六千零十六"
+        return "三万六千零一十六"
     when 36017
-        return "三万六千零十七"
+        return "三万六千零一十七"
     when 36018
-        return "三万六千零十八"
+        return "三万六千零一十八"
     when 36019
-        return "三万六千零十九"
+        return "三万六千零一十九"
     when 36020
         return "三万六千零二十"
     when 36021
@@ -74019,25 +74019,25 @@ def arabic_to_chinese(number)
     when 37009
         return "三万七千零九"
     when 37010
-        return "三万七千零十"
+        return "三万七千零一十"
     when 37011
-        return "三万七千零十一"
+        return "三万七千零一十一"
     when 37012
-        return "三万七千零十二"
+        return "三万七千零一十二"
     when 37013
-        return "三万七千零十三"
+        return "三万七千零一十三"
     when 37014
-        return "三万七千零十四"
+        return "三万七千零一十四"
     when 37015
-        return "三万七千零十五"
+        return "三万七千零一十五"
     when 37016
-        return "三万七千零十六"
+        return "三万七千零一十六"
     when 37017
-        return "三万七千零十七"
+        return "三万七千零一十七"
     when 37018
-        return "三万七千零十八"
+        return "三万七千零一十八"
     when 37019
-        return "三万七千零十九"
+        return "三万七千零一十九"
     when 37020
         return "三万七千零二十"
     when 37021
@@ -76019,25 +76019,25 @@ def arabic_to_chinese(number)
     when 38009
         return "三万八千零九"
     when 38010
-        return "三万八千零十"
+        return "三万八千零一十"
     when 38011
-        return "三万八千零十一"
+        return "三万八千零一十一"
     when 38012
-        return "三万八千零十二"
+        return "三万八千零一十二"
     when 38013
-        return "三万八千零十三"
+        return "三万八千零一十三"
     when 38014
-        return "三万八千零十四"
+        return "三万八千零一十四"
     when 38015
-        return "三万八千零十五"
+        return "三万八千零一十五"
     when 38016
-        return "三万八千零十六"
+        return "三万八千零一十六"
     when 38017
-        return "三万八千零十七"
+        return "三万八千零一十七"
     when 38018
-        return "三万八千零十八"
+        return "三万八千零一十八"
     when 38019
-        return "三万八千零十九"
+        return "三万八千零一十九"
     when 38020
         return "三万八千零二十"
     when 38021
@@ -78019,25 +78019,25 @@ def arabic_to_chinese(number)
     when 39009
         return "三万九千零九"
     when 39010
-        return "三万九千零十"
+        return "三万九千零一十"
     when 39011
-        return "三万九千零十一"
+        return "三万九千零一十一"
     when 39012
-        return "三万九千零十二"
+        return "三万九千零一十二"
     when 39013
-        return "三万九千零十三"
+        return "三万九千零一十三"
     when 39014
-        return "三万九千零十四"
+        return "三万九千零一十四"
     when 39015
-        return "三万九千零十五"
+        return "三万九千零一十五"
     when 39016
-        return "三万九千零十六"
+        return "三万九千零一十六"
     when 39017
-        return "三万九千零十七"
+        return "三万九千零一十七"
     when 39018
-        return "三万九千零十八"
+        return "三万九千零一十八"
     when 39019
-        return "三万九千零十九"
+        return "三万九千零一十九"
     when 39020
         return "三万九千零二十"
     when 39021
@@ -80019,25 +80019,25 @@ def arabic_to_chinese(number)
     when 40009
         return "四万零九"
     when 40010
-        return "四万零十"
+        return "四万零一十"
     when 40011
-        return "四万零十一"
+        return "四万零一十一"
     when 40012
-        return "四万零十二"
+        return "四万零一十二"
     when 40013
-        return "四万零十三"
+        return "四万零一十三"
     when 40014
-        return "四万零十四"
+        return "四万零一十四"
     when 40015
-        return "四万零十五"
+        return "四万零一十五"
     when 40016
-        return "四万零十六"
+        return "四万零一十六"
     when 40017
-        return "四万零十七"
+        return "四万零一十七"
     when 40018
-        return "四万零十八"
+        return "四万零一十八"
     when 40019
-        return "四万零十九"
+        return "四万零一十九"
     when 40020
         return "四万零二十"
     when 40021
@@ -82019,25 +82019,25 @@ def arabic_to_chinese(number)
     when 41009
         return "四万一千零九"
     when 41010
-        return "四万一千零十"
+        return "四万一千零一十"
     when 41011
-        return "四万一千零十一"
+        return "四万一千零一十一"
     when 41012
-        return "四万一千零十二"
+        return "四万一千零一十二"
     when 41013
-        return "四万一千零十三"
+        return "四万一千零一十三"
     when 41014
-        return "四万一千零十四"
+        return "四万一千零一十四"
     when 41015
-        return "四万一千零十五"
+        return "四万一千零一十五"
     when 41016
-        return "四万一千零十六"
+        return "四万一千零一十六"
     when 41017
-        return "四万一千零十七"
+        return "四万一千零一十七"
     when 41018
-        return "四万一千零十八"
+        return "四万一千零一十八"
     when 41019
-        return "四万一千零十九"
+        return "四万一千零一十九"
     when 41020
         return "四万一千零二十"
     when 41021
@@ -84019,25 +84019,25 @@ def arabic_to_chinese(number)
     when 42009
         return "四万二千零九"
     when 42010
-        return "四万二千零十"
+        return "四万二千零一十"
     when 42011
-        return "四万二千零十一"
+        return "四万二千零一十一"
     when 42012
-        return "四万二千零十二"
+        return "四万二千零一十二"
     when 42013
-        return "四万二千零十三"
+        return "四万二千零一十三"
     when 42014
-        return "四万二千零十四"
+        return "四万二千零一十四"
     when 42015
-        return "四万二千零十五"
+        return "四万二千零一十五"
     when 42016
-        return "四万二千零十六"
+        return "四万二千零一十六"
     when 42017
-        return "四万二千零十七"
+        return "四万二千零一十七"
     when 42018
-        return "四万二千零十八"
+        return "四万二千零一十八"
     when 42019
-        return "四万二千零十九"
+        return "四万二千零一十九"
     when 42020
         return "四万二千零二十"
     when 42021
@@ -86019,25 +86019,25 @@ def arabic_to_chinese(number)
     when 43009
         return "四万三千零九"
     when 43010
-        return "四万三千零十"
+        return "四万三千零一十"
     when 43011
-        return "四万三千零十一"
+        return "四万三千零一十一"
     when 43012
-        return "四万三千零十二"
+        return "四万三千零一十二"
     when 43013
-        return "四万三千零十三"
+        return "四万三千零一十三"
     when 43014
-        return "四万三千零十四"
+        return "四万三千零一十四"
     when 43015
-        return "四万三千零十五"
+        return "四万三千零一十五"
     when 43016
-        return "四万三千零十六"
+        return "四万三千零一十六"
     when 43017
-        return "四万三千零十七"
+        return "四万三千零一十七"
     when 43018
-        return "四万三千零十八"
+        return "四万三千零一十八"
     when 43019
-        return "四万三千零十九"
+        return "四万三千零一十九"
     when 43020
         return "四万三千零二十"
     when 43021
@@ -88019,25 +88019,25 @@ def arabic_to_chinese(number)
     when 44009
         return "四万四千零九"
     when 44010
-        return "四万四千零十"
+        return "四万四千零一十"
     when 44011
-        return "四万四千零十一"
+        return "四万四千零一十一"
     when 44012
-        return "四万四千零十二"
+        return "四万四千零一十二"
     when 44013
-        return "四万四千零十三"
+        return "四万四千零一十三"
     when 44014
-        return "四万四千零十四"
+        return "四万四千零一十四"
     when 44015
-        return "四万四千零十五"
+        return "四万四千零一十五"
     when 44016
-        return "四万四千零十六"
+        return "四万四千零一十六"
     when 44017
-        return "四万四千零十七"
+        return "四万四千零一十七"
     when 44018
-        return "四万四千零十八"
+        return "四万四千零一十八"
     when 44019
-        return "四万四千零十九"
+        return "四万四千零一十九"
     when 44020
         return "四万四千零二十"
     when 44021
@@ -90019,25 +90019,25 @@ def arabic_to_chinese(number)
     when 45009
         return "四万五千零九"
     when 45010
-        return "四万五千零十"
+        return "四万五千零一十"
     when 45011
-        return "四万五千零十一"
+        return "四万五千零一十一"
     when 45012
-        return "四万五千零十二"
+        return "四万五千零一十二"
     when 45013
-        return "四万五千零十三"
+        return "四万五千零一十三"
     when 45014
-        return "四万五千零十四"
+        return "四万五千零一十四"
     when 45015
-        return "四万五千零十五"
+        return "四万五千零一十五"
     when 45016
-        return "四万五千零十六"
+        return "四万五千零一十六"
     when 45017
-        return "四万五千零十七"
+        return "四万五千零一十七"
     when 45018
-        return "四万五千零十八"
+        return "四万五千零一十八"
     when 45019
-        return "四万五千零十九"
+        return "四万五千零一十九"
     when 45020
         return "四万五千零二十"
     when 45021
@@ -92019,25 +92019,25 @@ def arabic_to_chinese(number)
     when 46009
         return "四万六千零九"
     when 46010
-        return "四万六千零十"
+        return "四万六千零一十"
     when 46011
-        return "四万六千零十一"
+        return "四万六千零一十一"
     when 46012
-        return "四万六千零十二"
+        return "四万六千零一十二"
     when 46013
-        return "四万六千零十三"
+        return "四万六千零一十三"
     when 46014
-        return "四万六千零十四"
+        return "四万六千零一十四"
     when 46015
-        return "四万六千零十五"
+        return "四万六千零一十五"
     when 46016
-        return "四万六千零十六"
+        return "四万六千零一十六"
     when 46017
-        return "四万六千零十七"
+        return "四万六千零一十七"
     when 46018
-        return "四万六千零十八"
+        return "四万六千零一十八"
     when 46019
-        return "四万六千零十九"
+        return "四万六千零一十九"
     when 46020
         return "四万六千零二十"
     when 46021
@@ -94019,25 +94019,25 @@ def arabic_to_chinese(number)
     when 47009
         return "四万七千零九"
     when 47010
-        return "四万七千零十"
+        return "四万七千零一十"
     when 47011
-        return "四万七千零十一"
+        return "四万七千零一十一"
     when 47012
-        return "四万七千零十二"
+        return "四万七千零一十二"
     when 47013
-        return "四万七千零十三"
+        return "四万七千零一十三"
     when 47014
-        return "四万七千零十四"
+        return "四万七千零一十四"
     when 47015
-        return "四万七千零十五"
+        return "四万七千零一十五"
     when 47016
-        return "四万七千零十六"
+        return "四万七千零一十六"
     when 47017
-        return "四万七千零十七"
+        return "四万七千零一十七"
     when 47018
-        return "四万七千零十八"
+        return "四万七千零一十八"
     when 47019
-        return "四万七千零十九"
+        return "四万七千零一十九"
     when 47020
         return "四万七千零二十"
     when 47021
@@ -96019,25 +96019,25 @@ def arabic_to_chinese(number)
     when 48009
         return "四万八千零九"
     when 48010
-        return "四万八千零十"
+        return "四万八千零一十"
     when 48011
-        return "四万八千零十一"
+        return "四万八千零一十一"
     when 48012
-        return "四万八千零十二"
+        return "四万八千零一十二"
     when 48013
-        return "四万八千零十三"
+        return "四万八千零一十三"
     when 48014
-        return "四万八千零十四"
+        return "四万八千零一十四"
     when 48015
-        return "四万八千零十五"
+        return "四万八千零一十五"
     when 48016
-        return "四万八千零十六"
+        return "四万八千零一十六"
     when 48017
-        return "四万八千零十七"
+        return "四万八千零一十七"
     when 48018
-        return "四万八千零十八"
+        return "四万八千零一十八"
     when 48019
-        return "四万八千零十九"
+        return "四万八千零一十九"
     when 48020
         return "四万八千零二十"
     when 48021
@@ -98019,25 +98019,25 @@ def arabic_to_chinese(number)
     when 49009
         return "四万九千零九"
     when 49010
-        return "四万九千零十"
+        return "四万九千零一十"
     when 49011
-        return "四万九千零十一"
+        return "四万九千零一十一"
     when 49012
-        return "四万九千零十二"
+        return "四万九千零一十二"
     when 49013
-        return "四万九千零十三"
+        return "四万九千零一十三"
     when 49014
-        return "四万九千零十四"
+        return "四万九千零一十四"
     when 49015
-        return "四万九千零十五"
+        return "四万九千零一十五"
     when 49016
-        return "四万九千零十六"
+        return "四万九千零一十六"
     when 49017
-        return "四万九千零十七"
+        return "四万九千零一十七"
     when 49018
-        return "四万九千零十八"
+        return "四万九千零一十八"
     when 49019
-        return "四万九千零十九"
+        return "四万九千零一十九"
     when 49020
         return "四万九千零二十"
     when 49021
@@ -100019,25 +100019,25 @@ def arabic_to_chinese(number)
     when 50009
         return "五万零九"
     when 50010
-        return "五万零十"
+        return "五万零一十"
     when 50011
-        return "五万零十一"
+        return "五万零一十一"
     when 50012
-        return "五万零十二"
+        return "五万零一十二"
     when 50013
-        return "五万零十三"
+        return "五万零一十三"
     when 50014
-        return "五万零十四"
+        return "五万零一十四"
     when 50015
-        return "五万零十五"
+        return "五万零一十五"
     when 50016
-        return "五万零十六"
+        return "五万零一十六"
     when 50017
-        return "五万零十七"
+        return "五万零一十七"
     when 50018
-        return "五万零十八"
+        return "五万零一十八"
     when 50019
-        return "五万零十九"
+        return "五万零一十九"
     when 50020
         return "五万零二十"
     when 50021
@@ -102019,25 +102019,25 @@ def arabic_to_chinese(number)
     when 51009
         return "五万一千零九"
     when 51010
-        return "五万一千零十"
+        return "五万一千零一十"
     when 51011
-        return "五万一千零十一"
+        return "五万一千零一十一"
     when 51012
-        return "五万一千零十二"
+        return "五万一千零一十二"
     when 51013
-        return "五万一千零十三"
+        return "五万一千零一十三"
     when 51014
-        return "五万一千零十四"
+        return "五万一千零一十四"
     when 51015
-        return "五万一千零十五"
+        return "五万一千零一十五"
     when 51016
-        return "五万一千零十六"
+        return "五万一千零一十六"
     when 51017
-        return "五万一千零十七"
+        return "五万一千零一十七"
     when 51018
-        return "五万一千零十八"
+        return "五万一千零一十八"
     when 51019
-        return "五万一千零十九"
+        return "五万一千零一十九"
     when 51020
         return "五万一千零二十"
     when 51021
@@ -104019,25 +104019,25 @@ def arabic_to_chinese(number)
     when 52009
         return "五万二千零九"
     when 52010
-        return "五万二千零十"
+        return "五万二千零一十"
     when 52011
-        return "五万二千零十一"
+        return "五万二千零一十一"
     when 52012
-        return "五万二千零十二"
+        return "五万二千零一十二"
     when 52013
-        return "五万二千零十三"
+        return "五万二千零一十三"
     when 52014
-        return "五万二千零十四"
+        return "五万二千零一十四"
     when 52015
-        return "五万二千零十五"
+        return "五万二千零一十五"
     when 52016
-        return "五万二千零十六"
+        return "五万二千零一十六"
     when 52017
-        return "五万二千零十七"
+        return "五万二千零一十七"
     when 52018
-        return "五万二千零十八"
+        return "五万二千零一十八"
     when 52019
-        return "五万二千零十九"
+        return "五万二千零一十九"
     when 52020
         return "五万二千零二十"
     when 52021
@@ -106019,25 +106019,25 @@ def arabic_to_chinese(number)
     when 53009
         return "五万三千零九"
     when 53010
-        return "五万三千零十"
+        return "五万三千零一十"
     when 53011
-        return "五万三千零十一"
+        return "五万三千零一十一"
     when 53012
-        return "五万三千零十二"
+        return "五万三千零一十二"
     when 53013
-        return "五万三千零十三"
+        return "五万三千零一十三"
     when 53014
-        return "五万三千零十四"
+        return "五万三千零一十四"
     when 53015
-        return "五万三千零十五"
+        return "五万三千零一十五"
     when 53016
-        return "五万三千零十六"
+        return "五万三千零一十六"
     when 53017
-        return "五万三千零十七"
+        return "五万三千零一十七"
     when 53018
-        return "五万三千零十八"
+        return "五万三千零一十八"
     when 53019
-        return "五万三千零十九"
+        return "五万三千零一十九"
     when 53020
         return "五万三千零二十"
     when 53021
@@ -108019,25 +108019,25 @@ def arabic_to_chinese(number)
     when 54009
         return "五万四千零九"
     when 54010
-        return "五万四千零十"
+        return "五万四千零一十"
     when 54011
-        return "五万四千零十一"
+        return "五万四千零一十一"
     when 54012
-        return "五万四千零十二"
+        return "五万四千零一十二"
     when 54013
-        return "五万四千零十三"
+        return "五万四千零一十三"
     when 54014
-        return "五万四千零十四"
+        return "五万四千零一十四"
     when 54015
-        return "五万四千零十五"
+        return "五万四千零一十五"
     when 54016
-        return "五万四千零十六"
+        return "五万四千零一十六"
     when 54017
-        return "五万四千零十七"
+        return "五万四千零一十七"
     when 54018
-        return "五万四千零十八"
+        return "五万四千零一十八"
     when 54019
-        return "五万四千零十九"
+        return "五万四千零一十九"
     when 54020
         return "五万四千零二十"
     when 54021
@@ -110019,25 +110019,25 @@ def arabic_to_chinese(number)
     when 55009
         return "五万五千零九"
     when 55010
-        return "五万五千零十"
+        return "五万五千零一十"
     when 55011
-        return "五万五千零十一"
+        return "五万五千零一十一"
     when 55012
-        return "五万五千零十二"
+        return "五万五千零一十二"
     when 55013
-        return "五万五千零十三"
+        return "五万五千零一十三"
     when 55014
-        return "五万五千零十四"
+        return "五万五千零一十四"
     when 55015
-        return "五万五千零十五"
+        return "五万五千零一十五"
     when 55016
-        return "五万五千零十六"
+        return "五万五千零一十六"
     when 55017
-        return "五万五千零十七"
+        return "五万五千零一十七"
     when 55018
-        return "五万五千零十八"
+        return "五万五千零一十八"
     when 55019
-        return "五万五千零十九"
+        return "五万五千零一十九"
     when 55020
         return "五万五千零二十"
     when 55021
@@ -112019,25 +112019,25 @@ def arabic_to_chinese(number)
     when 56009
         return "五万六千零九"
     when 56010
-        return "五万六千零十"
+        return "五万六千零一十"
     when 56011
-        return "五万六千零十一"
+        return "五万六千零一十一"
     when 56012
-        return "五万六千零十二"
+        return "五万六千零一十二"
     when 56013
-        return "五万六千零十三"
+        return "五万六千零一十三"
     when 56014
-        return "五万六千零十四"
+        return "五万六千零一十四"
     when 56015
-        return "五万六千零十五"
+        return "五万六千零一十五"
     when 56016
-        return "五万六千零十六"
+        return "五万六千零一十六"
     when 56017
-        return "五万六千零十七"
+        return "五万六千零一十七"
     when 56018
-        return "五万六千零十八"
+        return "五万六千零一十八"
     when 56019
-        return "五万六千零十九"
+        return "五万六千零一十九"
     when 56020
         return "五万六千零二十"
     when 56021
@@ -114019,25 +114019,25 @@ def arabic_to_chinese(number)
     when 57009
         return "五万七千零九"
     when 57010
-        return "五万七千零十"
+        return "五万七千零一十"
     when 57011
-        return "五万七千零十一"
+        return "五万七千零一十一"
     when 57012
-        return "五万七千零十二"
+        return "五万七千零一十二"
     when 57013
-        return "五万七千零十三"
+        return "五万七千零一十三"
     when 57014
-        return "五万七千零十四"
+        return "五万七千零一十四"
     when 57015
-        return "五万七千零十五"
+        return "五万七千零一十五"
     when 57016
-        return "五万七千零十六"
+        return "五万七千零一十六"
     when 57017
-        return "五万七千零十七"
+        return "五万七千零一十七"
     when 57018
-        return "五万七千零十八"
+        return "五万七千零一十八"
     when 57019
-        return "五万七千零十九"
+        return "五万七千零一十九"
     when 57020
         return "五万七千零二十"
     when 57021
@@ -116019,25 +116019,25 @@ def arabic_to_chinese(number)
     when 58009
         return "五万八千零九"
     when 58010
-        return "五万八千零十"
+        return "五万八千零一十"
     when 58011
-        return "五万八千零十一"
+        return "五万八千零一十一"
     when 58012
-        return "五万八千零十二"
+        return "五万八千零一十二"
     when 58013
-        return "五万八千零十三"
+        return "五万八千零一十三"
     when 58014
-        return "五万八千零十四"
+        return "五万八千零一十四"
     when 58015
-        return "五万八千零十五"
+        return "五万八千零一十五"
     when 58016
-        return "五万八千零十六"
+        return "五万八千零一十六"
     when 58017
-        return "五万八千零十七"
+        return "五万八千零一十七"
     when 58018
-        return "五万八千零十八"
+        return "五万八千零一十八"
     when 58019
-        return "五万八千零十九"
+        return "五万八千零一十九"
     when 58020
         return "五万八千零二十"
     when 58021
@@ -118019,25 +118019,25 @@ def arabic_to_chinese(number)
     when 59009
         return "五万九千零九"
     when 59010
-        return "五万九千零十"
+        return "五万九千零一十"
     when 59011
-        return "五万九千零十一"
+        return "五万九千零一十一"
     when 59012
-        return "五万九千零十二"
+        return "五万九千零一十二"
     when 59013
-        return "五万九千零十三"
+        return "五万九千零一十三"
     when 59014
-        return "五万九千零十四"
+        return "五万九千零一十四"
     when 59015
-        return "五万九千零十五"
+        return "五万九千零一十五"
     when 59016
-        return "五万九千零十六"
+        return "五万九千零一十六"
     when 59017
-        return "五万九千零十七"
+        return "五万九千零一十七"
     when 59018
-        return "五万九千零十八"
+        return "五万九千零一十八"
     when 59019
-        return "五万九千零十九"
+        return "五万九千零一十九"
     when 59020
         return "五万九千零二十"
     when 59021
@@ -120019,25 +120019,25 @@ def arabic_to_chinese(number)
     when 60009
         return "六万零九"
     when 60010
-        return "六万零十"
+        return "六万零一十"
     when 60011
-        return "六万零十一"
+        return "六万零一十一"
     when 60012
-        return "六万零十二"
+        return "六万零一十二"
     when 60013
-        return "六万零十三"
+        return "六万零一十三"
     when 60014
-        return "六万零十四"
+        return "六万零一十四"
     when 60015
-        return "六万零十五"
+        return "六万零一十五"
     when 60016
-        return "六万零十六"
+        return "六万零一十六"
     when 60017
-        return "六万零十七"
+        return "六万零一十七"
     when 60018
-        return "六万零十八"
+        return "六万零一十八"
     when 60019
-        return "六万零十九"
+        return "六万零一十九"
     when 60020
         return "六万零二十"
     when 60021
@@ -122019,25 +122019,25 @@ def arabic_to_chinese(number)
     when 61009
         return "六万一千零九"
     when 61010
-        return "六万一千零十"
+        return "六万一千零一十"
     when 61011
-        return "六万一千零十一"
+        return "六万一千零一十一"
     when 61012
-        return "六万一千零十二"
+        return "六万一千零一十二"
     when 61013
-        return "六万一千零十三"
+        return "六万一千零一十三"
     when 61014
-        return "六万一千零十四"
+        return "六万一千零一十四"
     when 61015
-        return "六万一千零十五"
+        return "六万一千零一十五"
     when 61016
-        return "六万一千零十六"
+        return "六万一千零一十六"
     when 61017
-        return "六万一千零十七"
+        return "六万一千零一十七"
     when 61018
-        return "六万一千零十八"
+        return "六万一千零一十八"
     when 61019
-        return "六万一千零十九"
+        return "六万一千零一十九"
     when 61020
         return "六万一千零二十"
     when 61021
@@ -124019,25 +124019,25 @@ def arabic_to_chinese(number)
     when 62009
         return "六万二千零九"
     when 62010
-        return "六万二千零十"
+        return "六万二千零一十"
     when 62011
-        return "六万二千零十一"
+        return "六万二千零一十一"
     when 62012
-        return "六万二千零十二"
+        return "六万二千零一十二"
     when 62013
-        return "六万二千零十三"
+        return "六万二千零一十三"
     when 62014
-        return "六万二千零十四"
+        return "六万二千零一十四"
     when 62015
-        return "六万二千零十五"
+        return "六万二千零一十五"
     when 62016
-        return "六万二千零十六"
+        return "六万二千零一十六"
     when 62017
-        return "六万二千零十七"
+        return "六万二千零一十七"
     when 62018
-        return "六万二千零十八"
+        return "六万二千零一十八"
     when 62019
-        return "六万二千零十九"
+        return "六万二千零一十九"
     when 62020
         return "六万二千零二十"
     when 62021
@@ -126019,25 +126019,25 @@ def arabic_to_chinese(number)
     when 63009
         return "六万三千零九"
     when 63010
-        return "六万三千零十"
+        return "六万三千零一十"
     when 63011
-        return "六万三千零十一"
+        return "六万三千零一十一"
     when 63012
-        return "六万三千零十二"
+        return "六万三千零一十二"
     when 63013
-        return "六万三千零十三"
+        return "六万三千零一十三"
     when 63014
-        return "六万三千零十四"
+        return "六万三千零一十四"
     when 63015
-        return "六万三千零十五"
+        return "六万三千零一十五"
     when 63016
-        return "六万三千零十六"
+        return "六万三千零一十六"
     when 63017
-        return "六万三千零十七"
+        return "六万三千零一十七"
     when 63018
-        return "六万三千零十八"
+        return "六万三千零一十八"
     when 63019
-        return "六万三千零十九"
+        return "六万三千零一十九"
     when 63020
         return "六万三千零二十"
     when 63021
@@ -128019,25 +128019,25 @@ def arabic_to_chinese(number)
     when 64009
         return "六万四千零九"
     when 64010
-        return "六万四千零十"
+        return "六万四千零一十"
     when 64011
-        return "六万四千零十一"
+        return "六万四千零一十一"
     when 64012
-        return "六万四千零十二"
+        return "六万四千零一十二"
     when 64013
-        return "六万四千零十三"
+        return "六万四千零一十三"
     when 64014
-        return "六万四千零十四"
+        return "六万四千零一十四"
     when 64015
-        return "六万四千零十五"
+        return "六万四千零一十五"
     when 64016
-        return "六万四千零十六"
+        return "六万四千零一十六"
     when 64017
-        return "六万四千零十七"
+        return "六万四千零一十七"
     when 64018
-        return "六万四千零十八"
+        return "六万四千零一十八"
     when 64019
-        return "六万四千零十九"
+        return "六万四千零一十九"
     when 64020
         return "六万四千零二十"
     when 64021
@@ -130019,25 +130019,25 @@ def arabic_to_chinese(number)
     when 65009
         return "六万五千零九"
     when 65010
-        return "六万五千零十"
+        return "六万五千零一十"
     when 65011
-        return "六万五千零十一"
+        return "六万五千零一十一"
     when 65012
-        return "六万五千零十二"
+        return "六万五千零一十二"
     when 65013
-        return "六万五千零十三"
+        return "六万五千零一十三"
     when 65014
-        return "六万五千零十四"
+        return "六万五千零一十四"
     when 65015
-        return "六万五千零十五"
+        return "六万五千零一十五"
     when 65016
-        return "六万五千零十六"
+        return "六万五千零一十六"
     when 65017
-        return "六万五千零十七"
+        return "六万五千零一十七"
     when 65018
-        return "六万五千零十八"
+        return "六万五千零一十八"
     when 65019
-        return "六万五千零十九"
+        return "六万五千零一十九"
     when 65020
         return "六万五千零二十"
     when 65021

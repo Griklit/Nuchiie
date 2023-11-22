@@ -63,10 +63,10 @@ pub fn convert_num_decimal_slice_to_chinese<T: ToDecimalSlice>(num: T) -> String
         } else {
             if *n == 0 {
                 if !last_is_zero {//仅保留一个零
-                    let length = result.len();
-                    if length >= 2 && result[length - 1] == "一" && result[length - 2] == "十" {
-                        result.pop();//"零一十X"的部分改为"零十X"
-                    }
+                    // let length = result.len();
+                    // if length >= 2 && result[length - 1] == "一" && result[length - 2] == "十" {
+                    //     result.pop();//"零一十X"的部分改为"零十X"
+                    // }
                     result.push("零".to_string());
                 }
             } else {

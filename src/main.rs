@@ -9,4 +9,5 @@ fn main() {
     println!();
     println!("{}", 10000000030u64.to_chinese());
     println!("一百亿零三十");
+    println!("{}", u128::MAX.to_chinese());
 }
