@@ -62,6 +62,8 @@ path = "src/bin/r.rs"
 name = "nuchiie-bash"
 path = "src/bin/bash.rs"
 
-
+[[bin]]
+name = "nuchiie-php"
+path = "src/bin/php.rs"
 
 [dependencies]
