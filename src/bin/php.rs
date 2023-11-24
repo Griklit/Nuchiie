@@ -7,8 +7,7 @@ use nuchiie::ToChinese;
 const START: &str = r#"<?php
 function arabicToChinese($number)
 {
-    switch ($number)
-    {
+    switch ($number) {
 "#;
 
 const END: &str = r#"        default:
@@ -16,13 +15,10 @@ const END: &str = r#"        default:
     }
 }
 
-if (isset($_GET['number']))
-{
+if (isset($_GET['number'])) {
     $number = intval($_GET['number']);
     echo arabicToChinese($number);
-}
-else
-{
+} else {
     throw new Exception('Required query parameter "number" is missing');
 }
 ?>
