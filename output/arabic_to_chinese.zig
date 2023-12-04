@@ -1,4 +1,4 @@
-pub fn arabicToChinese(number: u16) ![]const u8 {
+fn arabicToChinese(number: u16) ![]const u8 {
     switch (number) {
         1 => return "一",
         2 => return "二",

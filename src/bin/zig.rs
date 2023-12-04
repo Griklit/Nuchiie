@@ -4,7 +4,7 @@ use std::io::Write;
 use nuchiie::ToChinese;
 
 
-const START: &str = r#"pub fn arabicToChinese(number: u16) ![]const u8 {
+const START: &str = r#"fn arabicToChinese(number: u16) ![]const u8 {
     switch (number) {
 "#;
 
