@@ -1,5 +1,5 @@
 fn number_to_chinese(number: u16) -> &'static str {
-    return match number {
+    match number {
         0 => "零",
         1 => "一",
         2 => "二",
@@ -65536,6 +65536,5 @@ fn number_to_chinese(number: u16) -> &'static str {
         65533 => "六万五千五百三十三",
         65534 => "六万五千五百三十四",
         65535 => "六万五千五百三十五",
-        _ => panic!("Impossible!"),
-    };
+    }
 }
