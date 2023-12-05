@@ -6,7 +6,7 @@ use nuchiie::ToChinese;
 
 const START: &str = r#"#!/bin/bash
 
-function arabicToChinese() {
+function numberToChinese() {
     local number=$1
     case $number in
 "#;
@@ -19,7 +19,7 @@ const END: &str = r#"    *)
 "#;
 
 fn main() {
-    let mut f = fs::File::create("output/arabic_to_chinese.sh").expect("Create file failed.");
+    let mut f = fs::File::create("output/number_to_chinese.sh").expect("Create file failed.");
     f.write(START.as_bytes()).unwrap();
     for i in 1u16..=u16::MAX {
         f.write(format!("    {})\n        echo \"{}\"\n        ;;\n", i, i.to_chinese()).as_bytes()).unwrap();
