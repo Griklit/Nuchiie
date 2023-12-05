@@ -71,4 +71,9 @@ path = "src/bin/php.rs"
 name = "nuchiie-zig"
 path = "src/bin/zig.rs"
 
+
+[[bin]]
+name = "nuchiie-文言"
+path = "src/bin/文言.rs"
+
 [dependencies]

@@ -4,8 +4,8 @@ use std::io::Write;
 use nuchiie::ToChinese;
 
 fn main() {
-    let mut f = fs::File::create("output/arabic_to_chinese.lua").expect("Create file failed.");
-    f.write("function arabic_to_chinese(number)\n".as_bytes()).unwrap();
+    let mut f = fs::File::create("output/number_to_chinese.lua").expect("Create file failed.");
+    f.write("function number_to_chinese(number)\n".as_bytes()).unwrap();
     f.write("    if (number == 0) then\n".as_bytes()).unwrap();
     f.write("        return \"零\";\n".as_bytes()).unwrap();
     for i in 1u16..=u16::MAX {

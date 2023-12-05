@@ -5,7 +5,7 @@ use nuchiie::ToChinese;
 
 
 const START: &str = r#"<?php
-function arabicToChinese($number)
+function numberToChinese($number)
 {
     switch ($number) {
 "#;
@@ -17,7 +17,7 @@ const END: &str = r#"        default:
 
 if (isset($_GET['number'])) {
     $number = intval($_GET['number']);
-    echo arabicToChinese($number);
+    echo numberToChinese($number);
 } else {
     throw new Exception('Required query parameter "number" is missing');
 }
@@ -25,7 +25,7 @@ if (isset($_GET['number'])) {
 "#;
 
 fn main() {
-    let mut f = fs::File::create("output/arabic_to_chinese.php").expect("Create file failed.");
+    let mut f = fs::File::create("output/number_to_chinese.php").expect("Create file failed.");
     f.write(START.as_bytes()).unwrap();
     for i in 1u16..=u16::MAX {
         f.write(format!("        case {}:\n            return '{}';\n", i, i.to_chinese()).as_bytes()).unwrap();

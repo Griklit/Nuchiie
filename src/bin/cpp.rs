@@ -6,7 +6,7 @@ use nuchiie::ToChinese;
 
 const START: &str = r#"#include <string>
 
-string arabicToChinese(unsigned short int number)
+string numberToChinese(unsigned short int number)
 {
     switch(number)
     {
@@ -18,7 +18,7 @@ const END: &str = r#"    }
 "#;
 
 fn main() {
-    let mut f = fs::File::create("output/ArabicToChinese.cpp").expect("Create file failed.");
+    let mut f = fs::File::create("output/NumberToChinese.cpp").expect("Create file failed.");
     f.write(START.as_bytes()).unwrap();
     for i in 1u16..=u16::MAX {
         f.write(format!("        case {} : return \"{}\";\n", i, i.to_chinese()).as_bytes()).unwrap();
