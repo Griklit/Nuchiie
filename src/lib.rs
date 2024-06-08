@@ -23,7 +23,6 @@ macro_rules! impl_to_decimal_slice_for_uint {
 }
 impl_to_decimal_slice_for_uint! {u8 u16 u32 u64 u128 usize}
 
-
 fn large_unit(index: usize) -> String {
     let mut result = Vec::new();
     let q = index / 8;
@@ -53,7 +52,9 @@ pub fn convert_num_decimal_slice_to_chinese<T: ToDecimalSlice>(num: T) -> String
         if unit_index == 0 {
             let unit = large_unit(i);
             if i != 0 {
-                if last_is_large_unit { result.pop(); }
+                if last_is_large_unit {
+                    result.pop();
+                }
                 result.push(unit);
                 last_is_large_unit = true;
             }
@@ -62,7 +63,8 @@ pub fn convert_num_decimal_slice_to_chinese<T: ToDecimalSlice>(num: T) -> String
             }
         } else {
             if *n == 0 {
-                if !last_is_zero {//仅保留一个零
+                if !last_is_zero {
+                    //仅保留一个零
                     // let length = result.len();
                     // if length >= 2 && result[length - 1] == "一" && result[length - 2] == "十" {
                     //     result.pop();//"零一十X"的部分改为"零十X"
