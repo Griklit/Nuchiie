@@ -16,6 +16,6 @@ fn main() {
             .unwrap();
     }
     f.write("    else:\n".as_bytes()).unwrap();
-    f.write("        raise ValueError(\"The number is out of range\")".as_bytes())
+    f.write("        raise ValueError(\"The number is out of range.\")".as_bytes())
         .unwrap();
 }

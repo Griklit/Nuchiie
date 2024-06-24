@@ -8,7 +8,7 @@ const START: &str = r#"def number_to_chinese(number)
 "#;
 
 const END: &str = r#"    else
-        raise "The number is out of range"
+        raise "The number is out of range."
     end
 end
 "#;

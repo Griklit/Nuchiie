@@ -16,7 +16,7 @@ fn main() {
             .unwrap();
     }
     f.write("    else\n".as_bytes()).unwrap();
-    f.write("        error(\"The number is out of range\", 2)\n".as_bytes())
+    f.write("        error(\"The number is out of range.\", 2)\n".as_bytes())
         .unwrap();
     f.write("    end\n".as_bytes()).unwrap();
     f.write("end\n".as_bytes()).unwrap();

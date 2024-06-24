@@ -76,4 +76,8 @@ path = "src/bin/zig.rs"
 name = "nuchiie-文言"
 path = "src/bin/文言.rs"
 
+[[bin]]
+name = "nuchiie-java"
+path = "src/bin/java.rs"
+
 [dependencies]

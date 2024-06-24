@@ -10,7 +10,7 @@ function numberToChinese($number)
 "#;
 
 const END: &str = r#"        default:
-            throw new Exception('The number is out of range');
+            throw new Exception('The number is out of range.');
     }
 }
 
