@@ -16,8 +16,7 @@ const END: &str = r#"            default:
 "#;
 
 fn main() {
-    let mut f =
-        fs::File::create("output/NumberToChinese.java").expect("Create file failed.");
+    let mut f = fs::File::create("output/NumberToChinese.java").expect("Create file failed.");
     f.write(START.as_bytes()).unwrap();
     for i in 1u16..=u16::MAX {
         f.write(

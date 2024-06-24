@@ -80,4 +80,8 @@ path = "src/bin/文言.rs"
 name = "nuchiie-java"
 path = "src/bin/java.rs"
 
+[[bin]]
+name = "nuchiie-csharp"
+path = "src/bin/csharp.rs"
+
 [dependencies]
