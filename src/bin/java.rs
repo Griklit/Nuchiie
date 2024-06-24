@@ -3,7 +3,7 @@ use std::io::Write;
 
 use nuchiie::ToChinese;
 
-const START: &str = r#"public class Nuchiie {
+const START: &str = r#"public class NumberToChinese {
     public static String numberToChinese(int number) throws IllegalArgumentException {
         switch (number) {
 "#;
@@ -17,7 +17,7 @@ const END: &str = r#"            default:
 
 fn main() {
     let mut f =
-        fs::File::create("output/number_to_chinese.java").expect("Create file failed.");
+        fs::File::create("output/NumberToChinese.java").expect("Create file failed.");
     f.write(START.as_bytes()).unwrap();
     for i in 1u16..=u16::MAX {
         f.write(
