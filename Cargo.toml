@@ -84,4 +84,8 @@ path = "src/bin/java.rs"
 name = "nuchiie-csharp"
 path = "src/bin/csharp.rs"
 
+[[bin]]
+name = "nuchiie-haskell"
+path = "src/bin/haskell.rs"
+
 [dependencies]
