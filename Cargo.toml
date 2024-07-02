@@ -88,4 +88,9 @@ path = "src/bin/csharp.rs"
 name = "nuchiie-haskell"
 path = "src/bin/haskell.rs"
 
+[[bin]]
+name = "nuchiie-swift"
+path = "src/bin/swift.rs"
+
+
 [dependencies]
