@@ -65549,7 +65549,7 @@ fn main() {
     if let Ok(number) = args[1].parse::<u16>() {
         println!("{}", number_to_chinese(number));
     } else {
-        eprintln!("请输入65535以内的阿拉伯数字");
+        eprintln!("请输入范围 0~65535 以内的阿拉伯数字");
         std::process::exit(1);
     }
 }
