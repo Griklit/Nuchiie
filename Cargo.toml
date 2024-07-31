@@ -1,6 +1,6 @@
 [package]
 name = "nuchiie"
-version = "0.1.0"
+version = "1.19.0"
 edition = "2021"
 
 [lib]
@@ -11,6 +11,9 @@ path = "src/lib.rs"
 name = "nuchiie-test"
 path = "tests/lib.rs"
 
+[[bin]]
+name = "nuchiie-rust-cli"
+path = "src/bin/rust-cli.rs"
 
 [[bin]]
 name = "nuchiie-python"
